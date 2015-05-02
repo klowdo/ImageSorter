@@ -1,0 +1,9 @@
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\bin\Debug\ImageSorter.exe.config
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\bin\Debug\ImageSorter.exe
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\bin\Debug\ImageSorter.pdb
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.csprojResolveAssemblyReference.cache
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.Form1.resources
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.Properties.Resources.resources
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.csproj.GenerateResource.Cache
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.exe
+c:\users\felixsvensson\documents\visual studio 2013\Projects\ImageSorter\ImageSorter\obj\Debug\ImageSorter.pdb
